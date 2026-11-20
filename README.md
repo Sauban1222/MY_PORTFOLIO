@@ -107,21 +107,6 @@ education and development timeline, contact details, and a working message form.
 - Contact form integration
 - Direct email, phone, and WhatsApp links
 
-## Run Locally
-
-Clone the repository and open the project folder:
-
-```bash
-git clone https://github.com/Sauban1222/Portfolio.git
-cd Portfolio
-```
-
-Open `index.html` directly in a browser, or run a local server:
-
-```bash
-npx serve .
-```
-
 ## Project Structure
 
 ```text
@@ -132,6 +117,9 @@ Portfolio/
 ├── README.md
 └── images/
     ├── Profile.jpeg
+    ├── project1.png
+    ├── project2.png
+    ├── project3.png
     ├── Project4.png
     ├── Project5.png
     ├── Project6.png
@@ -144,6 +132,7 @@ Portfolio/
 - **Phone / WhatsApp:** [+92 313 5568768](https://wa.me/923135568768)
 - **LinkedIn:** [Sauban Ali](https://linkedin.com/in/sauban-ali-0172ab43a)
 - **GitHub:** [Sauban1222](https://github.com/Sauban1222)
+- **Portfolio:** [Sauban Ali](https://sauban-professional-developer.netlify.com/)
 
 ## License
 
