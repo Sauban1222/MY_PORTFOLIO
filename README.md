@@ -23,8 +23,7 @@ education and development timeline, contact details, and a working message form.
 
 ## Live Website
 
-- **Portfolio:** [sauban_professional_developer.com](https://sauban_professional_developer.com/)
-- **Current Netlify portfolio:** [devsauban.netlify.app](https://devsauban.netlify.app/)
+- **Portfolio:** [sauban_professional_developer.com](https://sauban-professional-developer.com/)
 
 ## Preview
 
